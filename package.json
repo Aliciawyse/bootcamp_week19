@@ -1,0 +1,29 @@
+{
+  "name": "bootcamp_week19",
+  "version": "1.0.0",
+  "description": "React practice!",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aliciawyse/bootcamp_week19.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aliciawyse/bootcamp_week19/issues"
+  },
+  "homepage": "https://github.com/Aliciawyse/bootcamp_week19#readme",
+  "dependencies": {
+    "bloomer": "^0.6.3",
+    "bulma": "^0.6.2",
+    "express": "^4.16.2",
+    "jsx-loader": "^0.13.2",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "webpack": "^3.10.0"
+  }
+}
